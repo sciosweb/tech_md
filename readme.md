@@ -4,9 +4,9 @@
 
 1. 페이지
 
-   - [Main]: /docs/Mainpage.md	"Main"
+   - [Main](/docs/MainPage.md)
 
-     ![Mainpage](\docs\image\MainPage.png)
+     ![Mainpage](/docs/image/MainPage.png)
 
      
 
