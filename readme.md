@@ -26,11 +26,8 @@
 
    - Service
 
-<<<<<<< HEAD
-2.  컴포넌트
 
-=======
+
 2. 컴포넌트
->>>>>>> 41108c44dcce80dadc81b5d4fe6a147759c5d5d9
    - Note
    - Chatting
