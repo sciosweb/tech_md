@@ -12,6 +12,7 @@
    - IDE
    - Lincense
    - Service
-2.  컴포넌트
+
+2. 컴포넌트
    - Note
    - Chatting
