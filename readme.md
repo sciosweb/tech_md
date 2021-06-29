@@ -1,33 +1,18 @@
 # 기능명세서
 
-
-
-1. 페이지
-
+## 1. Page
    - [Main](/docs/MainPage.md)
-
-     ![Mainpage](/docs/image/MainPage.png)
-
-     
-
-   - Login2
-
-   - Blog
-
-   - Mypage
-
-   - Post
-
-   - Business
-
-   - IDE
-
-   - Lincense
-
-   - Service
+   - [Login](/docs/Login.md)
+   - [Blog](/docs/Blog.md)
+   - [Mypage](/docs/Mypage.md)
+   - [Post](/docs/Post.md)
+   - [Business](/docs/Business.md)
+   - [IDE](/docs/IDE.md)
+   - [Lincense](/docs/LicensePage.md)
+   - [Service](/docs/Service.md)
 
 
-
-2. 컴포넌트
-   - Note
-   - Chatting
+## 2. Component
+   - [Note](/docs/Note.md)
+   - [Chatting](/docs/Chatting.md)
+   
