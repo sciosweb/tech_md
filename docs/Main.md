@@ -2,6 +2,8 @@
 
 ![Mainpage](/docs/image/MainPage.png)
 
+<center>
+
 | 번호 | 기능명 | 카테고리 | 기능 설명 | 구현여부 |
 | - | -- | :-: | :- | :-: |
 | 2 | [페이지 번역](/docs/Main/Translation.md) | Main | 언어에 맞춰서 페이지를 보여준다. | X |
@@ -10,5 +12,9 @@
 | 12 | [사이드메뉴](/docs/GNB/SideMenu.md) | GNB | 각 페이지의 ShortCut Button을 보여준다. | X |
 | 13 | [사이드메뉴 커스텀](/docs/GNB/CustomSideMenu.md) | GNB | 사용자의 사이드메뉴 커스텀을 할 수 있게 해준다. | X |
 | 3 | 마이페이지 이동 | Link | 각 사용자의 마이페이지로 이동한다. | O |
+
+</center>
+
+<br/>
 
 [**← 뒤로**](/readme.md)
