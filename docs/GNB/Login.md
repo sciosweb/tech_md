@@ -1,6 +1,6 @@
-# 로그인 기능 : 키워드를 입력하여 해당하는 블로그들을 보여준다. 
+# 로그인 기능 : 로그인을 한다.
 
-![blog](/docs/image/Login.png)
+![Loginpage](/docs/image/Login.png)
 
 **[page address]** : /login
 

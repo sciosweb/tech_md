@@ -1,6 +1,6 @@
 # 로그인 기능 : 키워드를 입력하여 해당하는 블로그들을 보여준다. 
 
-![blog](/docs/image/Signup.png)
+![Signup](/docs/image/Signup.png)
 
 **[page address]** : /signup
 
