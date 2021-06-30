@@ -1,7 +1,6 @@
 # Post : 자유게시판 관련 기능
-![Post](/docs/image/Post.png)
 
-<center>
+![Post](/docs/image/Post.png)
 
 |  번호 | 기능명 | 카테고리 | 기능 설명 | 구현여부 |
 | ----- | ----- | :------: | :-------- | :----: |
@@ -10,8 +9,6 @@
 | - | [포스트 수정 / 삭제](/docs/Post/Edit.md) | Post | 사용자의 글을 수정하여 올린다. | O |
 | - | [댓글기능](/docs/GNB/Reply.md) | GNB | 댓글을 입력한다. / 댓글을 수정한다. / 댓글을 삭제한다. | O |
 | - | [사이드 버튼](/docs/GNB/SideBtn.md) | GNB | 작성 글에서 사용자가 할 수 있는 기능을 수행한다. (스크랩, 좋아요 등) | X |
-
-</center>
 
 <br/>
 

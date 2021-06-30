@@ -1,7 +1,6 @@
 # Blog : 블로그 관련 기능
-![blog](/docs/image/Blog.png)
 
-<center>
+![blog](/docs/image/Blog.png)
 
 |  번호 | 기능명 | 카테고리 | 기능 설명 | 구현여부 |
 | ----- | ----- | :------: | :-------- | :----: |
@@ -12,8 +11,6 @@
 | - | [댓글기능](/docs/GNB/Reply.md) | GNB | 댓글을 입력한다. / 댓글을 수정한다. / 댓글을 삭제한다. | O |
 | - | [페이지네이션](/docs/GNB/Pagination.md) | GNB | 작성자의 글들을 목록으로 불러와서 보여준다. | O |
 | - | [사이드 버튼](/docs/GNB/SideBtn.md) | GNB | 작성 글에서 사용자가 할 수 있는 기능을 수행한다. (스크랩, 좋아요 등) | X |
-
-</center>
 
 <br/>
 
