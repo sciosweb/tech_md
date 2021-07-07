@@ -1,8 +1,8 @@
-# 검색 기능 : 키워드를 입력하여 해당하는 블로그들을 보여준다. 
+# 검색 기능 : 키워드를 입력하여 해당하는 게시글들을 보여준다. 
 
-![blog](/docs/image/Blog.png)
+![Post](/docs/image/Post.png)
 
-**[page address]** : /blog, /blog/best/:keyword, /blog/newest/:keyword
+**[page address]** : /post, /post/best/:keyword, /post/newest/:keyword...
 
 <br/>
 
@@ -35,8 +35,8 @@
 
 - 키워드를 입력하지 않는 경우
 
-    &nbsp;&nbsp;&nbsp;1\) 베스트, 최신순을 눌렀을 때 전체글이 정렬돼서 보여준다.
+    &nbsp;&nbsp;&nbsp;1\) 종류별(Issue, Post), 베스트, 최신순을 눌렀을 때 전체글이 정렬돼서 보여준다.
 
 <br/>
 
-[**← 뒤로**](/docs/Blog.md)
+[**← 뒤로**](/docs/Post.md)
