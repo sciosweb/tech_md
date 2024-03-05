@@ -9,5 +9,3 @@
 ## 2. Component
    - [Note](/docs/Note.md)
    - [Chatting](/docs/Chatting.md)
-   
-
